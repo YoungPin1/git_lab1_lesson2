@@ -5,3 +5,10 @@ jacket (buttons branch)
 Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 соотвественно
 
+Я вижу 6 коммитов с коментариями от старого до нового:
+1)Merge remote-tracking branch 'origin/boots' into boots_buttons
+2)Merge remote-tracking branch 'origin/buttons' into boots_buttons
+3)Merge remote-tracking branch 'origin/hat'
+4)Merge branch 'boots_buttons'
+5)hometasks.txt update
+6)hometasks.txt update with commits
